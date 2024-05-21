@@ -1,3 +1,5 @@
 hola mundo buenas dias esto es para prueba de git desde cero
 me gustaria decirle feliz cumpleaños a pamela pero no se aun estoy muy 
 inseguro acerca de mis sentimientos pame espero que tengas feliz cumpleaños
+hola de nuevo este es mi segundo dia de git espero terminar y tambien quiero 
+terminar el curso de docker
