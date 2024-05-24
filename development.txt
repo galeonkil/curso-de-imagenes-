@@ -1,2 +1,6 @@
 esta es el area solo para los desarrolladores que esta iniciando su proyecto
-para la interfaz grafica
+para la interfaz grafica 
+se agregan los respectivos puntos para el desarrollo de la interfaz
+-Inicion del diseño ux or uix
+-Definir colores 
+-Diseño de la plantilla
