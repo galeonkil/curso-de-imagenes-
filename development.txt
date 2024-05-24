@@ -1,0 +1,2 @@
+esta es el area solo para los desarrolladores que esta iniciando su proyecto
+para la interfaz grafica
