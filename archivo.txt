@@ -2,4 +2,10 @@ hola mundo buenas dias esto es para prueba de git desde cero
 me gustaria decirle feliz cumpleaños a pamela pero no se aun estoy muy 
 inseguro acerca de mis sentimientos pame espero que tengas feliz cumpleaños
 hola de nuevo este es mi segundo dia de git espero terminar y tambien quiero 
-terminar el curso de docker
+terminar el curso de docker 
+
+Hoy es un nuevo dia asi que me pongo a escribir estos dias han sido muy pesados 
+debido al proyecto pero gracias a la piscina puedo relajarme un tiempo
+necesito avanzar el proyecto ademas de el diplomado de redes y aparte terminar
+los cursos que me propuse a terminar practicar ingles me faltan muchas espero 
+poder acomodarme este tiempo y sacar todo lo que me propuse gracias
