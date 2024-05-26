@@ -9,3 +9,6 @@ debido al proyecto pero gracias a la piscina puedo relajarme un tiempo
 necesito avanzar el proyecto ademas de el diplomado de redes y aparte terminar
 los cursos que me propuse a terminar practicar ingles me faltan muchas espero 
 poder acomodarme este tiempo y sacar todo lo que me propuse gracias
+-------------------------------
+nueva rama dev para ejemplo de muchas archivos y cosas aun asi quiero aprender 
+muchas coasas
